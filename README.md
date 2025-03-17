@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 AI/ML Research Fellow with a passion for translating cutting-edge AI advancements into practical solutions.
 
-<!--
-**juancq/juancq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔬 Research Fellow at Centre for Big Data Research in Health, UNSW
+- 🎓 PhD in Computer Science and Engineering
+- 🤖 10+ years experience in AI/ML and Python development
+- 🧠 Expert in LLMs, RAG, and deep learning for real-world problems
 
-Here are some ideas to get you started:
+## Technical Expertise
+- **AI/ML**: Deep Learning, LLMs, RAG, Model Pretraining/Fine-tuning, Traditional ML
+- **Infrastructure**: AWS EC2, Git, Linux/Unix, CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Key Projects
+- 🏥 [ML-powered healthcare resource forecasting](https://github.com/juancq/patient-trajectories)
+- 💻 [LLM pipelines for research automation](https://github.com/juancq/AI-Scientist)
+- ❤️ [Deep learning for cardiovascular risk prediction](https://github.com/juancq/predicting-af-outcomes)
+- 🧒 [Machine learning for predicting treatment success in children with anxiety](https://github.com/juancq/remission-cbt)
+
+## Connect
+- 👔 [LinkedIn](http://www.linkedin.com/in/juancquiroz)
+- 🌐 Sydney, NSW, Australia
