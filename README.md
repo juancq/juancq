@@ -1,7 +1,7 @@
-👋 AI/ML Research Fellow with a passion for translating cutting-edge AI advancements into practical solutions.
+👋 AI/ML developer with a passion for translating cutting-edge AI advancements into practical solutions.
 
 ## About Me
-- 🔬 Research Fellow at Centre for Big Data Research in Health, UNSW
+- 🔬 AI scientist at Centre for Big Data Research in Health, UNSW
 - 🎓 PhD in Computer Science and Engineering
 - 🤖 10+ years experience in AI/ML and Python development
 - 🧠 Expert in LLMs, RAG, and deep learning for real-world problems
